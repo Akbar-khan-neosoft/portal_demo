@@ -1,0 +1,20 @@
+.addpostcontainer{
+    margin: 5%;
+    border: 1px solid black;
+}
+
+.addposttitle{
+    margin: 1%;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 700;
+}
+
+.addpostform{
+    margin: 3%;
+}
+
+.addpostbutton{
+    margin-top: 2%;
+    margin-bottom: 4%;
+}

@@ -1,0 +1,18 @@
+.logincontainer{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+    margin-bottom:5%;
+    border: 5px double black;
+}
+
+.loginform{
+    width: 90%;
+    margin:5%;
+}
+
+.loginbutton{
+    width: 90%;
+    margin:5%;
+}

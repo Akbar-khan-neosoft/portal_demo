@@ -1,0 +1,18 @@
+.adminportalcontainer{
+    margin: 5%;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: row;
+}
+
+.leftsidebar{
+    width: 20%;
+    border: 1px solid green;
+
+}
+
+.contentcontainer{
+    width: 80%;
+    border: 1px solid black;
+
+}

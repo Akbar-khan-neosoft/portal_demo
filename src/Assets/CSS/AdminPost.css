@@ -1,0 +1,38 @@
+.postcontainer{
+    margin: 5%;
+    border: 1px solid black;
+}
+
+.post{
+    margin: 2%;
+    border: 1px solid rgb(112, 106, 106);
+}
+
+.posttitle{
+    margin-left: 2%;
+    
+  
+    text-align: left;
+    font-size: larger;
+    font-weight: 500;
+}
+
+.postotherdata{
+    margin-left: 2%;
+    margin-top: 1%;
+    text-align: left;
+    font-size: xx-small;
+}
+
+.postcontent{
+    margin-top: 1%;
+    margin-left: 2%;
+    text-align: left;
+    font-size: medium;
+}
+
+.postdeletebutton{
+    margin-top: 2%;
+    margin-bottom: 2%;
+   
+}

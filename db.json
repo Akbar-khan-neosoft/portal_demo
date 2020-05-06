@@ -1,0 +1,88 @@
+{
+  "posts": [
+    {
+      "posttitle": "job in c++",
+      "postauthor": "akbar",
+      "postdate": "12/5/2020",
+      "postcategory": "HR",
+      "poststate": "maharastra",
+      "postcity": "mumbai",
+      "postcontent": "testing this portal so you are seeing this,testing this portal so you are seeing this,testing this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\n",
+      "id": 2
+    },
+    {
+      "posttitle": "job in c++",
+      "postauthor": "akbar",
+      "postdate": "12/5/2020",
+      "postcategory": "HR",
+      "poststate": "maharastra",
+      "postcity": "mumbai",
+      "postcontent": "testing this portal so you are seeing this,testing this portal so you are seeing this,testing this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\n",
+      "id": 3
+    },
+    {
+      "posttitle": "job in c++",
+      "postauthor": "akbar",
+      "postdate": "12/5/2020",
+      "postcategory": "HR",
+      "poststate": "maharastra",
+      "postcity": "mumbai",
+      "postcontent": "testing this portal so you are seeing this,testing this portal so you are seeing this,testing this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\n",
+      "id": 4
+    },
+    {
+      "posttitle": "job in c++",
+      "postauthor": "akbar",
+      "postdate": "12/5/2020",
+      "postcategory": "HR",
+      "poststate": "maharastra",
+      "postcity": "mumbai",
+      "postcontent": "testing this portal so you are seeing this,testing this portal so you are seeing this,testing this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\n",
+      "id": 5
+    },
+    {
+      "posttitle": "job in c++",
+      "postauthor": "akbar",
+      "postdate": "12/5/2020",
+      "postcategory": "HR",
+      "poststate": "maharastra",
+      "postcity": "mumbai",
+      "postcontent": "testing this portal so you are seeing this,testing this portal so you are seeing this,testing this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\ntesting this portal so you are seeing this\n",
+      "id": 6
+    },
+    {
+      "posttitle": "job in multinational company",
+      "postauthor": "akbar",
+      "postdate": "11/4/2020",
+      "postcategory": "Non Tech",
+      "poststate": "maharastra",
+      "postcity": "mumbai",
+      "postcontent": "test test test test test test ",
+      "id": 7
+    }
+  ],
+  "logindata": [
+    {
+      "id": 1,
+      "name": "some comment",
+      "email": "some comment",
+      "mobile": "some comment",
+      "education": "some comment",
+      "age": "some comment",
+      "password": "some comment",
+      "city": "some comment",
+      "state": "some comment"
+    },
+    {
+      "Name": "akbar khan",
+      "Email": "akbar@gmail.com",
+      "Mobile": "1234567890",
+      "Education": "BE",
+      "Age": "26",
+      "Password": "11111111",
+      "City": "Mumbai",
+      "State": "Maharastra",
+      "id": 2
+    }
+  ]
+}
